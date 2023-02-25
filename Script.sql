@@ -1,0 +1,1 @@
+create table pessoa (id integer primary key , nome varchar(100), idade integer, endereco varchar(100));
